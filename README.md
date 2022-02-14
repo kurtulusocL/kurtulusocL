@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - ❓ Ask me what you curious about me.
 - 👨‍💻🧿 Asp .Net Developer since 4 years.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/ocalkurtulus/)
- 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-008b8b?style=quare&labelColor=008b8b&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/ocalkurtulus/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-757575?style=flat-quare&labelColor=757575&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kurtulusocl.yon/?hl=tr)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kurtulusocL?tab=repositories)
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=radical)
+
+I am learning 
