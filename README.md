@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am currently workig as a freelancer .net developer.
+- 🕵️‍♂️ As long as there is knowledge, it should be learned. Learning has no age.
+- ❓ Ask me what you curious about me.
+- 👨‍💻🧿 Asp .Net Developer since 4 years.
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/ocalkurtulus/)
+ 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=radical)
