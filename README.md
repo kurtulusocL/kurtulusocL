@@ -4,6 +4,7 @@
 - 👨‍💻🧿 Asp .Net Developer since 4 years.
 - 🕵️‍♂️ As long as there is knowledge, it should be learned. Learning has no age.
 - ❓ Ask me what you curious about me.
+- 🕧 In the spare time, watching documentary, movie or series or reading something.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-008b8b?style=quare&labelColor=008b8b&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/ocalkurtulus/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-757575?style=flat-quare&labelColor=757575&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kurtulusocl.yon/?hl=tr)
