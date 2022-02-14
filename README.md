@@ -11,7 +11,7 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=radical) 
 
-- ▶🆕🆙🔜 I am learning:
+▶🆕🆙🔜 I am learning:
 
 ![indir](https://user-images.githubusercontent.com/78833568/153897087-76a2e902-07ed-4b80-983e-de735fb92b11.png) 
 ![azure](https://user-images.githubusercontent.com/78833568/153896830-d567b439-ee74-4c20-a642-8800602884ff.jpg)
