@@ -9,9 +9,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-757575?style=flat-quare&labelColor=757575&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kurtulusocl.yon/?hl=tr)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kurtulusocL?tab=repositories)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=radical) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtulusocL&layout=compact)](https://github.com/kurtulusocL/kurtulusocL)
 
-▶🆕🆙🔜 I am learning:
+▶ I am learning:
+- 🔜 Docker
+- 🆙 Azure
 
-![indir](https://user-images.githubusercontent.com/78833568/153897087-76a2e902-07ed-4b80-983e-de735fb92b11.png) 
-![azure](https://user-images.githubusercontent.com/78833568/153896830-d567b439-ee74-4c20-a642-8800602884ff.jpg)
+<!--![indir](https://user-images.githubusercontent.com/78833568/153897087-76a2e902-07ed-4b80-983e-de735fb92b11.png) 
+![azure](https://user-images.githubusercontent.com/78833568/153896830-d567b439-ee74-4c20-a642-8800602884ff.jpg)-->
