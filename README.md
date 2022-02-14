@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=radical)
 
 I am learning 
+
+![docker](https://user-images.githubusercontent.com/78833568/153896289-0dcec9cc-06b9-4799-a527-044faa189abb.jpg)
