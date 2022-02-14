@@ -15,6 +15,3 @@
 ▶ I am learning:
 - 🔜 Docker
 - 🆙 Azure
-
-<!--![indir](https://user-images.githubusercontent.com/78833568/153897087-76a2e902-07ed-4b80-983e-de735fb92b11.png) 
-![azure](https://user-images.githubusercontent.com/78833568/153896830-d567b439-ee74-4c20-a642-8800602884ff.jpg)-->
