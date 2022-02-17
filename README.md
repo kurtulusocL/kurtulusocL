@@ -1,6 +1,6 @@
 ### Hi there, It's me 👋
 
-- 🔭 I am currently workig as a freelancer .net developer.
+- 🔭 I am currently working as a freelancer .net developer.
 - 👨‍💻🧿 Asp .Net Developer since 4 years.
 - 🕵️‍♂️ As long as there is knowledge, it should be learned. Learning has no age.
 - ❓ Ask me what you curious about me.
