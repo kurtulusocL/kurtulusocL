@@ -13,5 +13,6 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtulusocL&layout=compact)](https://github.com/kurtulusocL/kurtulusocL)
 
 ▶ I am learning:
-- 🔜 Docker
-- 🆙 Azure
+- ❔ Docker
+- ❔ Azure
+- ❔ Blazor
