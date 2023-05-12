@@ -20,6 +20,9 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-%23FF0000.svg?style=quare&for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCDUYQ6s8dY2YPQv0yH3jOLw/videos)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kurtulusocL?tab=repositories)
 
+![kurtulusocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kurtulusocL)](https://github.com/kurtulusocL/github-readme-stats)
+
 ▶ Coming Soon:
 - ❔ Docker
 - ❔ React
