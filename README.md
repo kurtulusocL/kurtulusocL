@@ -14,6 +14,7 @@
 - ✔ WebApi, Restfull, Wcf, SOA 
 - ✔ MSSQL Server, PostgreSQL 
 - ✔ Design Pattern (Repository Pattern, CQRS, Onion Architecture)
+- ✔ Html, Css, Bootstrap, JavaScript
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-008b8b?style=quare&labelColor=008b8b&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/ocalkurtulus/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-757575?style=flat-quare&labelColor=757575&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kurtulusocl.yon/?hl=tr)
