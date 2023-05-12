@@ -7,7 +7,7 @@
 - 🕧 In the spare time, watching documentary, movie or series or reading something.
 
 => Key:
-- Azure (DataStorage, Deploy) (https://icons8.com/icon/11159/approval)
+- Azure (DataStorage, Deploy) ([https://icons8.com/icon/11159/approval](https://badgen.net/badge/icon/maven?icon=maven&label))
 - Asp.Net, Asp.Net Core (https://icons8.com/icon/11159/approval)
 - Entity Framework, Entity Framework Core (https://icons8.com/icon/11159/approval)
 - C#, Mvc, OOP, AOP (https://icons8.com/icon/11159/approval)
