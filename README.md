@@ -8,8 +8,9 @@
 
 => Key:
 - ✔ Azure (DataStorage, Deploy)
+- ✔ Docker (DataStorage, Deploy)
 - ✔ Asp.Net, Asp.Net Core 
-- ✔ Entity Framework, Entity Framework Core 
+- ✔ Entity Framework, Entity Framework Core, Dapper, Ado.Net 
 - ✔ C#, Mvc, OOP, AOP 
 - ✔ WebApi, Restfull, Wcf, SOA 
 - ✔ MSSQL Server, PostgreSQL 
@@ -23,8 +24,3 @@
 
 ![kurtulusocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kurtulusocL)](https://github.com/kurtulusocL/github-readme-stats)
-
-▶ Coming Soon:
-- ❔ Docker
-- ❔ React
-- ❔ Blazor
