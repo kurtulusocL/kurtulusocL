@@ -10,12 +10,13 @@
 - ✔ Azure (DataStorage, Deploy)
 - ✔ Docker (DataStorage, Deploy)
 - ✔ Asp.Net, Asp.Net Core 
-- ✔ Entity Framework, Entity Framework Core, Dapper, Ado.Net 
+- ✔ Entity Framework, Entity Framework Core, Dapper, Ado.Net
+- ✔ CodeFirst, ModelFirst, DbFirst, Linq Expression, Lambda Expression
 - ✔ C#, Mvc, OOP, AOP 
-- ✔ WebApi, Restfull, Wcf, SOA 
-- ✔ MSSQL Server, PostgreSQL 
+- ✔ WebApi, Restfull, Wcf, SOAP 
+- ✔ MSSQL Server, PostgreSQL, MongoDb (Informed) 
 - ✔ Design Pattern (Repository Pattern, CQRS, Onion Architecture)
-- ✔ Html, Css, Bootstrap, JavaScript
+- ✔ Html, Css, Bootstrap, JavaScript (Informed)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-008b8b?style=quare&labelColor=008b8b&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/ocalkurtulus/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-757575?style=flat-quare&labelColor=757575&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kurtulusocl.yon/?hl=tr)
