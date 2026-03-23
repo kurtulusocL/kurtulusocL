@@ -38,6 +38,6 @@
 ## 📊 GitHub Stats
 
 [![kurtulusocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=transparent)](https://github.com/kurtulusocL)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kurtulusocL)](https://github.com/kurtulusocL/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurtulusocL&theme=dark)](https://git.io/streak-stats)
