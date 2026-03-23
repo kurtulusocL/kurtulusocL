@@ -30,6 +30,7 @@
 
 [![Job Search Listing](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=Job_Search_Listing&theme=dark)](https://github.com/kurtulusocL/Job_Search_Listing)
 [![Stock App](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=stockapp&theme=dark)](https://github.com/kurtulusocL/stockapp)
+[![Game Theory Nash Equilibrium](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=Game_Theory_Nash_Equilibrium&theme=dark)](https://github.com/kurtulusocL/Game_Theory_Nash_Equilibrium)
 [![Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=design_patterns&theme=dark)](https://github.com/kurtulusocL/design_patterns)
 
 ---
