@@ -28,16 +28,15 @@
 
 ## 🚀 Projects
 
-[![Job Search Listing](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=Job_Search_Listing&theme=dark)](https://github.com/kurtulusocL/Job_Search_Listing)
-[![Stock App](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=stockapp&theme=dark)](https://github.com/kurtulusocL/stockapp)
-[![Game Theory Nash Equilibrium](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=Game_Theory_Nash_Equilibrium&theme=dark)](https://github.com/kurtulusocL/Game_Theory_Nash_Equilibrium)
-[![Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=design_patterns&theme=dark)](https://github.com/kurtulusocL/design_patterns)
+[![Job Search Listing](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=Job_Search_Listing&theme=dark&cache_seconds=1800)](https://github.com/kurtulusocL/Job_Search_Listing)
+[![Stock App](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=stockapp&theme=dark&cache_seconds=1800)](https://github.com/kurtulusocL/stockapp)
+[![Game Theory Nash Equilibrium](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=Game_Theory_Nash_Equilibrium&theme=dark&cache_seconds=1800)](https://github.com/kurtulusocL/Game_Theory_Nash_Equilibrium)
+[![Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=kurtulusocL&repo=design_patterns&theme=dark&cache_seconds=1800)](https://github.com/kurtulusocL/design_patterns)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![kurtulusocal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=transparent)](https://github.com/kurtulusocL)
-
+![kurtulusocL's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtulusocL&show_icons=true&theme=dark&cache_seconds=1800)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurtulusocL&theme=dark)](https://git.io/streak-stats)
