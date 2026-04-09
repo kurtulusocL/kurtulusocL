@@ -33,6 +33,7 @@
 - 🎲 **[Game Theory Nash Equilibrium](https://github.com/kurtulusocL/Game_Theory_Nash_Equilibrium)** — Game theory implementation
 - 🤖 **[ATS Score Analysis](https://github.com/kurtulusocL/ats_score_analysis)** — AI-Enhanced Resume Analysis & Scoring System (.NET 9, WinForms, Fuzzy Logic)
 - ⚙️ **[Highlevel Backend](https://github.com/kurtulusocL/highlevel-backend)** — High-level backend architecture with .NET Core & API
+- 🚚 **[Logistic Track Desktop App](https://github.com/kurtulusocL/logistic_track)** — Logistic Track Desktop App with .NET Core
 
 ---
 
